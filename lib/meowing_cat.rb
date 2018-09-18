@@ -1,8 +1,7 @@
 ## code your solution here. 
 
 class Cat
-  puts "meow!"
-  
+
   def name=(name)
     @name = name
   end
@@ -13,7 +12,6 @@ end
 end
 
 class Cat
-    puts "meow!"
 
   attr_accessor :name
 end
