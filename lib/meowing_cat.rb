@@ -11,3 +11,7 @@ class Cat
   end
 end
 
+class class
+  attr_accessor :name
+ 
+end
