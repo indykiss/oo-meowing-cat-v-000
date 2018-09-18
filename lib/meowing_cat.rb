@@ -18,8 +18,8 @@ end
 
 class Cat
 
-def name
-  @name
+def meow
+  @meow
 puts "meow!"
 end 
 end
