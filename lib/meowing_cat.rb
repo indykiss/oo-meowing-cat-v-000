@@ -22,3 +22,4 @@ def meow
   @meow
 puts "meow!"
 end
+end
