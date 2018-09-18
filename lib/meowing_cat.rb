@@ -11,7 +11,7 @@ class Cat
   end
 end
 
-class class
+class Cat
   attr_accessor :name
  
 end
