@@ -10,3 +10,4 @@ class Cat
     @name
   end
 end
+
