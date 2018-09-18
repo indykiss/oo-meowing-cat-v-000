@@ -8,10 +8,10 @@ class Cat
  
   def name
     @name
+    
+  attr_accessor :name
 end
 end
 
 class Cat
-  attr_accessor :name
-  puts "meow!"
 end
